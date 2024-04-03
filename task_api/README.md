@@ -1,4 +1,4 @@
-Project Description : This Project asign daily task to the Employer..This project includes all the concept of Api like Pagination, Custom Permissions , loggers, login and Logout functionality of User..
+Project Description : This Project asign daily task to the Employer..This project includes all the concept of Api like Pagination, Custom Permissions , loggers, login and Logout functionality of User, activate the User using signals and sending mail..
 
 How to Install and Run the Project:
 
